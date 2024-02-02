@@ -30,10 +30,10 @@ function ver(){
 
 ## enlaces
 el texto ente corchetes y el enlace entre parentesis
-[ir a la pagina 2](pagina2.md)
+[ver comandos git básicos](comandosgit.md)
 
 ## imagenes
-![logotipo de markdown](descarga.png)
+![logotipo de markdown](Markdown.png)
 
 ## linea horizontal
 como un hr
